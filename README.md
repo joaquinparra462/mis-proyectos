@@ -1,2 +1,2 @@
-# mis-proyectos
+# mi-repo
 practica
